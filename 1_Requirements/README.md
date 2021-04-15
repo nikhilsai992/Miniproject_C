@@ -16,15 +16,21 @@ scope of developing the features.
 
 ### Explanation
 * Library Book Management System have few inbuilt features like:
-    * Add a book with details
-    * Display a book with details 
-    * Search a book by its name
-    * Search a book by its author name
-    * Update number of books in the library
+    * Add a book with details.
+    * Display a book with details. 
+    * Search a book by its name.
+    * Search a book by its author name.
+    * Update number of books in the library.
 
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/Diptiman1999/LTTS_MiniProject_C/blob/master/1_Requirements/swot.png)
+### Strengths:
+* simple user interface.
+* Easy access to the books.
+* Search by specific category.
+### Weakness:
+* Not so advanced in searching and limited storage.
+      
 
 # 4W&#39;s and 1&#39;H
 
