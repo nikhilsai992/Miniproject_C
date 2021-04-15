@@ -28,8 +28,17 @@ scope of developing the features.
 * simple user interface.
 * Easy access to the books.
 * Search by specific category.
+
+
 ### Weakness:
 * Not so advanced in searching and limited storage.
+
+### Opportunities:
+* Since the application is basic there is more room for improvement.
+* Implementation of other functionalities are possible.
+
+### Threats:
+* This doesn't involve user login process, so there may be a chance of data theft. 
       
 
 # 4W&#39;s and 1&#39;H
