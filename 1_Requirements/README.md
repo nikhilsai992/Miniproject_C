@@ -7,8 +7,10 @@ In past libraries used to record the information of the books in an another book
 
 ## Benefits
 A digital library management system makes the process of search, storing the details of all the books. Moreover it reduces the paperwork involves in the traditional book records.
+## Cost and Features
 
-
+The project is a low cost system . Less complexity increases the  
+scope of developing the features.
 
 ## Defining Our System
 
