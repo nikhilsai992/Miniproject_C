@@ -2,7 +2,7 @@
 ![Banner](https://github.com/nikhilsai992/Miniproject_C/blob/3b000926f63b005417670724ebb0fd2d3701722e/1_Requirements/real%20library.jpg)
 
 
-Build | Git Inspector | Unity | CPP check
+Build | Git Inspector | Unity | Code Quality
 |---------|------------|-----------|----------------
 [![C/C++ CI - Build Status](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/c-build.yml/badge.svg)](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/c-build.yml)|[![Contribution Check - Git Inspector](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/gitinspector.yml)|[![Unit Testing](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/unit-test.yml/badge.svg)](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/unit-test.yml)|[![cppcheck-action](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nikhilsai992/Miniproject_C/actions/workflows/cppcheck.yml)|
 
