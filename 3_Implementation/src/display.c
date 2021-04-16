@@ -18,8 +18,6 @@ void display(struct library *l, int count)
 
         printf("\t  price = %f", l[i].price);
 
-        printf("%d",count);
-
         printf("\n");
       }
       
